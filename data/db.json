@@ -1,26 +1,24 @@
-{
-    "episodes": [
-        {
-            "title": "M1 Introduction | Financial Statement Analysis | CFA 1",
-            "episodeNo": 1,
-            "abstract": "【CFA 1 | 财务报表分析 | M1】 总体概览",
-            "description": "本期知识点为财务报表的介绍章节",
-            "link": "vancrown.github.io/podcasts",
-            "author": "小凡",
-            "pubDate": "2023-12-1",
-            "duration": 1000,
-            "id": 0
-        },
-        {
-            "title": "M2 Income Statement | Financial Statement Analysis | CFA 1",
-            "episodeNo": 2,
-            "abstract": "【CFA 1 | 财务报表分析 | M1】 损益表",
-            "description": "本期知识点为财务报表的损益表",
-            "link": "vancrown.github.io/podcasts",
-            "author": "小凡",
-            "pubDate": "2023-12-1",
-            "duration": 1000,
-            "id": 1
-        }
-    ]
-}
+[
+    {
+        "title": "M1 Introduction | Financial Statement Analysis | CFA 1",
+        "episodeNo": 1,
+        "abstract": "【CFA 1 | 财务报表分析 | M1】 总体概览",
+        "description": "本期知识点为财务报表的介绍章节",
+        "link": "vancrown.github.io/podcasts",
+        "author": "小凡",
+        "pubDate": "2023-12-1",
+        "duration": 1000,
+        "id": 0
+    },
+    {
+        "title": "M2 Income Statement | Financial Statement Analysis | CFA 1",
+        "episodeNo": 2,
+        "abstract": "【CFA 1 | 财务报表分析 | M1】 损益表",
+        "description": "本期知识点为财务报表的损益表",
+        "link": "vancrown.github.io/podcasts",
+        "author": "小凡",
+        "pubDate": "2023-12-1",
+        "duration": 1000,
+        "id": 1
+    }
+]
