@@ -3,8 +3,8 @@
     <channel>
         <title>72-test</title>
         <link>https://web-link</link>
-        <atom:link href="https:/feedlink" rel="self" type="application/rss+xml"/>
-        <itunes:new-feed-url>feed link</itunes:new-feed-url>
+        <atom:link href="https://vancrown.github.io/rss/feed/72.xml" rel="self" type="application/rss+xml"/>
+        <itunes:new-feed-url>https://vancrown.github.io/rss/feed/72.xml</itunes:new-feed-url>
         <description>channel descript </description>
         <language>zh-CN</language>
         <itunes:category text="Business"/>
