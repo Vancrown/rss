@@ -1,0 +1,33 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>72-test</title>
+        <link>https://web-link</link>
+        <atom:link href="https:/feedlink" rel="self" type="application/rss+xml"/>
+        <itunes:new-feed-url>feed link</itunes:new-feed-url>
+        <description>channel descript </description>
+        <language>zh-CN</language>
+        <itunes:category text="Business"/>
+        <itunes:image href="https://logo-address"/>
+        <itunes:keywords>key,words</itunes:keywords>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>小羊，y</itunes:author>
+        <itunes:owner>
+            <itunes:name>channel name</itunes:name>
+            <itunes:email>email address</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>测试title</title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>title2</itunes:title>
+            <description>html description</description>
+            <link>link</link>
+            <guid>same as link</guid>
+            <author>author1 2 3 </author>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" length="32621106" url="https://crazy.capital/88/audio.mp3"/>
+            <itunes:duration>4077</itunes:duration>
+        </item>
+    </channel>
+</rss>
