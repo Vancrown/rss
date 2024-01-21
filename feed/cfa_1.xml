@@ -1,0 +1,35 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CFA知识点</title>
+        <link>https://vancrown.github.io/cfa/episodes</link>
+        <atom:link href="https://vancrown.github.io/rss/feed/cfa_1.xml" rel="self" type="application/rss+xml"/>
+        <itunes:new-feed-url>https://vancrown.github.io/rss/feed/cfa_1.xml</itunes:new-feed-url>
+        <description>【CFA知识点】是一档记录一只金融小白，从零学习CFA的备考日记。</description>
+        <language>zh-CN</language>
+        <itunes:category text="Business"/>
+        <itunes:image href="https://audio.com/s3/audio.com.static/collection/image/09/03/1788667150850309-1788667176486914.jpeg@3840?qlt=75"/>
+        <itunes:keywords>CFA, 金融, 学习, 量化, Quant</itunes:keywords>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>羊小凡</itunes:author>
+        <itunes:owner>
+            <itunes:name>CFA知识点</itunes:name>
+            <itunes:email>lanxirye@outlook.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Trailer | 关于【CFA知识点】</title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>Trailer | 关于【CFA知识点】</itunes:title>
+            <description>
+                <![CDATA[  <h3>Trailer | 关于【CFA知识点】</h3> </br> <p> <b>【CFA知识点】</b>是一档记录一只金融小白，从零自学CFA的备考日记。 </p> </br> ]]>
+            </description>
+            <link>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d</link>
+            <guid isPermaLink="false">https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d</guid>
+            <author>羊小凡</author>
+            <pubDate>Mon, 1 Jan 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" length="600045" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d"/>
+            <itunes:duration>15</itunes:duration>
+        </item>
+    </channel>
+</rss>
