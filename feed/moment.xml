@@ -1,0 +1,33 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>抽空一下</title>
+        <link>https://web-link</link>
+        <atom:link href="https://vancrown.github.io/rss/feed/moment.xml" rel="self" type="application/rss+xml"/>
+        <itunes:new-feed-url>https://vancrown.github.io/rss/feed/moment.xml</itunes:new-feed-url>
+        <description>【抽空一下】是一档不定期更新，无固定主题的，朋友间的闲聊节目。不论是海外求学，还是自我成长，我们都希望你可以抽空一下，要开心。</description>
+        <language>zh-CN</language>
+        <itunes:category text="Leisure"/>
+        <itunes:image href="https://audio.com/s3/audio.com.static/collection/image/09/03/1788667150850309-1788667176486914.jpeg@3840?qlt=75"/>
+        <itunes:keywords>抽空一下,moment</itunes:keywords>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>Calvin,Xingyu,小羊</itunes:author>
+        <itunes:owner>
+            <itunes:name>抽空一下</itunes:name>
+            <itunes:email>test_moment@test.test</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title></title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>title2</itunes:title>
+            <description>html description</description>
+            <link>link</link>
+            <guid>same as link</guid>
+            <author>author1 2 3 </author>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" length="32621106" url="https://crazy.capital/88/audio.mp3"/>
+            <itunes:duration>4077</itunes:duration>
+        </item>
+    </channel>
+</rss>
