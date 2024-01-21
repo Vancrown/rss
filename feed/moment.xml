@@ -9,25 +9,53 @@
         <language>zh-CN</language>
         <itunes:category text="Leisure"/>
         <itunes:image href="https://audio.com/s3/audio.com.static/collection/image/09/03/1788667150850309-1788667176486914.jpeg@3840?qlt=75"/>
-        <itunes:keywords>抽空一下,moment</itunes:keywords>
+        <itunes:keywords>抽空一下, Moment, 海外, 留学</itunes:keywords>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:author>Calvin,Xingyu,小羊</itunes:author>
+        <itunes:author>Calvin, Xingyu, 小羊</itunes:author>
         <itunes:owner>
             <itunes:name>抽空一下</itunes:name>
             <itunes:email>test_moment@test.test</itunes:email>
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title></title>
+            <title>Trailer|关于【抽空一下】</title>
             <itunes:episode>1</itunes:episode>
-            <itunes:title>title2</itunes:title>
-            <description>html description</description>
-            <link>link</link>
-            <guid>same as link</guid>
-            <author>author1 2 3 </author>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" length="32621106" url="https://crazy.capital/88/audio.mp3"/>
-            <itunes:duration>4077</itunes:duration>
-        </item>
-    </channel>
+            <itunes:title>Trailer|关于【抽空一下】</itunes:title>
+            <description>
+                <h3>Trailer|关于【抽空一下】</h3>
+            </br>
+            <p>
+                <b>【抽空一下】</b>是一档不定期更新，无固定主题的，朋友间的闲聊节目。不论是海外求学，还是自我成长，我们都希望你可以抽空一下，要开心。
+            </p>
+        </br>
+
+        <p>
+            <b>【主播】</b>
+        </p>
+        <ul>
+            <li>
+                <b>Calvin</b>，ENFP，爱好广泛，喜欢思考抽象概念的人。</li>
+            <li>
+                <b>Xingyu</b>，INFJ，上下求索的流浪者。</li>
+            <li>
+                <b>小羊</b>，INTJ，存不下钱的漂泊者。</li>
+        </ul>
+
+    </br>
+
+    <p>
+        <b>【BGM】</b>：
+    </p>
+    <ul>
+        <li>苏打绿 - 小情歌</li>
+    </ul>
+</description>
+<link>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/31/77/1788676966037731-1788676967901877-1788676976271351.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240121%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240121T055348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=518400&X-Amz-Signature=25fe3b9700760271324abeab0fba40ea4b3e9c2ece57c160f2cb2b19cf47d1af</link>
+<guid>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/31/77/1788676966037731-1788676967901877-1788676976271351.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240121%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240121T055348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=518400&X-Amz-Signature=25fe3b9700760271324abeab0fba40ea4b3e9c2ece57c160f2cb2b19cf47d1af</guid>
+<author>Calvin, Xingyu, 小羊</author>
+<pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+<enclosure type="audio/mpeg" length="7659318" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/31/77/1788676966037731-1788676967901877-1788676976271351.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240121%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240121T055348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=518400&X-Amz-Signature=25fe3b9700760271324abeab0fba40ea4b3e9c2ece57c160f2cb2b19cf47d1af"/>
+<itunes:duration>191</itunes:duration>
+</item>
+</channel>
 </rss>
