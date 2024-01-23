@@ -22,7 +22,7 @@
             <itunes:episode>1</itunes:episode>
             <itunes:title>Trailer | 关于【CFA知识点】</itunes:title>
             <description>
-                <![CDATA[  <h3>Trailer | 关于【CFA知识点】</h3> </br> <p> <b>【CFA知识点】</b>是一档记录一只金融小白，从零自学CFA的备考日记。 </p> </br> ]]>
+                <![CDATA[  <p> <b>【CFA知识点】</b>是一档记录一只金融小白，从零自学CFA的备考日记。 </p> </br> ]]>
             </description>
             <link>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d</link>
             <guid isPermaLink="false">https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d</guid>
@@ -30,6 +30,20 @@
             <pubDate>Mon, 1 Jan 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" length="600045" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/00/32/1786955878183200-1786955879954262-1786955887099729.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240120%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240120T221602Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=0dcd2179aef6d39c033c6eec536e5b27383705026099d28170042a4ea4aabc4d"/>
             <itunes:duration>15</itunes:duration>
+        </item>
+        <item>
+            <title>【Equity Investment】Market Organization and Structure</title>
+            <itunes:episode>2</itunes:episode>
+            <itunes:title>【Equity Investment】Market Organization and Structure</itunes:title>
+            <description>
+                <![CDATA[  <p> <b>【Equity Investment】</b> Market Organization and Structure </p> </br> ]]>
+            </description>
+            <link>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/60/26/1788911370992660-1788911372844092-1788911452757611.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240123%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240123T194221Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=54fd7d477e03084e0bec65fa78dc20bbbcbac18c73c10faee24676b6de55dfee</link>
+            <guid isPermaLink="false">https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/60/26/1788911370992660-1788911372844092-1788911452757611.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240123%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240123T194221Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=54fd7d477e03084e0bec65fa78dc20bbbcbac18c73c10faee24676b6de55dfee</guid>
+            <author>羊小凡</author>
+            <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" length="15257749" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/60/26/1788911370992660-1788911372844092-1788911452757611.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240123%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240123T194221Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=54fd7d477e03084e0bec65fa78dc20bbbcbac18c73c10faee24676b6de55dfee"/>
+            <itunes:duration>391</itunes:duration>
         </item>
     </channel>
 </rss>
