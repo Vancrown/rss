@@ -33,5 +33,19 @@
             <enclosure type="audio/mpeg" length="7659318" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/31/77/1788676966037731-1788676967901877-1788676976271351.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240121%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240121T060412Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=1b4126241dd699960db214bcbdc33230c6551c579a4935104c1c0b6db691edbe"/>
             <itunes:duration>191</itunes:duration>
         </item>
+        <item>
+            <title>龙年🐉第一弹！「新年」怎么和印象不一样</title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:title>龙年🐉第一弹！「新年」怎么和印象不一样</itunes:title>
+            <description>
+                <![CDATA[ <p>龙年🐉新开始！【抽空一下】先在这给大家拜一个早年啦！💰财源滚滚，恭喜发财呀💰本期浅浅聊了一些关于「春节」的话题。</p> </br> <b>⌛假装有时间轴</b> </br> <ul> <li>在海外，中国春节有啥稀奇！</li> <li>一方水土养一方人，南北习俗咋这么大差异</li> <li>春晚又怎么了？</li> <li>小时候，是年味，是乡愁</li> <li>代际分层与文化传承之间的矛盾，是这一代年轻人的必修课</li> <li>New Year Resolution</li> </ul> </br> <b>🎵BGM</b>： </br> <ul> <li>苏打绿 - 小情歌</li> </ul>]]>
+            </description>
+            <link>https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/40/17/1789391599151740-1789391601249791-1789393569877479.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240130%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240130T055348Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=8e4f1a68985dcd0fd0518158aca64c731d58c6f7aedc6f3e8240b3b40666e731</link>
+            <guid isPermaLink="false">https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/40/17/1789391599151740-1789391601249791-1789393569877479.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240130%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240130T055348Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=8e4f1a68985dcd0fd0518158aca64c731d58c6f7aedc6f3e8240b3b40666e731</guid>
+            <author>Calvin, Xingyu, 小羊</author>
+            <pubDate>Sun, 28 Jan 2024 00:00:09 +0000</pubDate>
+            <enclosure type="audio/mpeg" length="98833980" url="https://s3.eu-central-1.wasabisys.com/audio.com.audio/transcoding/40/17/1789391599151740-1789391601249791-1789393569877479.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=W7IA3NSYSOQIKLY9DEVC%2F20240130%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240130T055348Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=518400&amp;X-Amz-Signature=8e4f1a68985dcd0fd0518158aca64c731d58c6f7aedc6f3e8240b3b40666e731"/>
+            <itunes:duration>2471</itunes:duration>
+        </item>
     </channel>
 </rss>
