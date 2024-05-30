@@ -10,6 +10,12 @@ def load_maps(file_path):
     return s["rssTitles"]
 
 
+def load_map_db(link):
+    res = requests.get(link)
+    d = json.loads(res.content)["rssTitles"]
+    return d
+
+
 def init_db(file_path):
     with open(file_path, "r+", encoding="utf-8") as f:
         s = json.load(f)
@@ -140,9 +146,37 @@ def refresh_db(url, map_file_path, db_file_path):
     write_to_db(db_file_path, new_db_d)
 
 
-if __name__ == "__main__":
+def refresh_db_json(url, map_link, db_file_path):
+    link_l, title_l, pubDate_l, duration_l, length_l = get_attr_l(url)
+    rss_map_d = load_map_db(map_link)
+
+    new_db_d = build_db(
+        rss_map_d,
+        link_l,
+        title_l,
+        duration_l,
+        length_l,
+    )
+    # [wip] change test to db.json
+    # write_to_db("./scrap_wasabi/backend/test.json", db_d)
+    write_to_db(db_file_path, new_db_d)
+    return new_db_d
+
+
+def run():
     url = "https://audio.com/rss/collection/1786941485940961"
-    map_file_path = "./scrap_wasabi/cfa_maps.json"
+    map_db = "https://my-json-server.typicode.com/Vancrown/db/rssMap"
     db_file_path = "./scrap_wasabi/backend/cfa_db.json"
     # db_file_path = "./scrap_wasabi/backend/test.json" # test
-    refresh_db(url, map_file_path, db_file_path)
+    new_db_d = refresh_db_json(url, map_db, db_file_path)
+    return new_db_d
+
+
+if __name__ == "__main__":
+    url = "https://audio.com/rss/collection/1786941485940961"
+    # map_file_path = "./scrap_wasabi/cfa_maps.json"
+    map_db = "https://my-json-server.typicode.com/Vancrown/db/rssMap"
+    db_file_path = "./scrap_wasabi/backend/cfa_db.json"
+    # db_file_path = "./scrap_wasabi/backend/test.json" # test
+    # refresh_db(url, map_file_path, db_file_path)
+    refresh_db_json(url, map_db, db_file_path)

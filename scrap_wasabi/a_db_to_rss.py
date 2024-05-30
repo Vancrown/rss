@@ -100,6 +100,18 @@ def write_rss(path, s):
         f.write(s)
 
 
+def run(db_d=None):
+    soup = init_soup("./feed/cfa_1.xml")
+    preprocess_cdata(soup)
+
+    if db_d is None:
+        db_d = load_db("./scrap_wasabi/backend/cfa_db.json")
+
+    s = db_to_rss(soup, db_d)
+    # write_rss("./scrap_wasabi/backend/test.xml", s)
+    write_rss("./feed/cfa_1.xml", s)
+
+
 if __name__ == "__main__":
     soup = init_soup("./feed/cfa_1.xml")
     preprocess_cdata(soup)
