@@ -2,23 +2,28 @@
     "rssTitles": {
         "CFA I | trailer": {
             "title": "Trailer | 关于【CFA知识点】",
-            "description": "<![CDATA[ <p> <b>【CFA知识点】</b>是一档记录一只金融小白，从零自学CFA的备考日记。 </p> </br> ]]>"
+            "description": "<![CDATA[ <p> <b>【CFA知识点】</b>是一档记录一只金融小白，从零自学CFA的备考日记。 </p> </br> ]]>",
+            "pubDate": "Tue, 02 Jan 2024 05:38:45 +0000"
         },
         "EI_M1": {
             "title": "【Equity Investment】Market Organization and Structure",
-            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Market Organization and Structure </p> </br> ]]>"
+            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Market Organization and Structure </p> </br> ]]>",
+            "pubDate": "Tue, 02 Jan 2024 05:38:45 +0000"
         },
         "EI_M2": {
             "title": "【Equity Investment】Security Market Indexes",
-            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Security Market Indexes </p> </br> ]]>"
+            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Security Market Indexes </p> </br> ]]>",
+            "pubDate": "Tue, 02 Jan 2024 05:38:45 +0000"
         },
         "EI_M3": {
             "title": "【Equity Investment】Market Efficiency",
-            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Market Efficiency </p> </br> ]]>"
+            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Market Efficiency </p> </br> ]]>",
+            "pubDate": "Tue, 02 Jan 2024 05:38:45 +0000"
         },
         "EI_M4": {
             "title": "【Equity Investment】Overview of Equity Securities",
-            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Overview of Equity Securities </p> </br> ]]>"
+            "description": "<![CDATA[ <p> <b>【Equity Investment】</b> Overview of Equity Securities </p> </br> ]]>",
+            "pubDate": "Tue, 02 Jan 2024 05:38:45 +0000"
         }
     }
 }
