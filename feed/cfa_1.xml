@@ -10,9 +10,7 @@
    https://vancrown.github.io/cfa/episodes
         </link>
         <atom:link href="https://vancrown.github.io/rss/feed/cfa_1.xml" rel="self" type="application/rss+xml"/>
-        <itunes:new-feed-url>
-            https://vancrown.github.io/rss/feed/cfa_1.xml
-        </itunes:new-feed-url>
+
         <description>
    【CFA知识点】是一档记录一只金融小白，从零学习CFA的备考日记。
         </description>
