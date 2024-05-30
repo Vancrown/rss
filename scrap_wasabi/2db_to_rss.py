@@ -100,7 +100,7 @@ def write_rss(path, s):
 
 
 if __name__ == "__main__":
-    soup = init_soup("./scrap_wasabi/backend/cfa_base.xml")
+    soup = init_soup("./feed/cfa_1.xml")
     preprocess_cdata(soup)
     # cur_id = 1
     # cur_idx = get_cur_idx(soup)
@@ -108,4 +108,5 @@ if __name__ == "__main__":
     # db_d = {k: v for k, v in db_d.items() if int(k) >= cur_idx}
 
     s = db_to_rss(soup, db_d)
-    write_rss("./scrap_wasabi/backend/cfa_base.xml", s)
+    # write_rss("./scrap_wasabi/backend/cfa_base.xml", s)
+    write_rss("./feed/cfa_1.xml", s)
