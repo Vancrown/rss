@@ -58,7 +58,8 @@ def build_item(soup, cur):
     new_item.append(wasabi_link)
 
     wasabi_link = soup.new_tag("guid")
-    wasabi_link.string = cur["link"]
+    wasabi_link.string = f'cfa-zhishidian-1-{cur["episode"]}'
+    # wasabi_link.string = cur["link"]
     wasabi_link.attrs = {"isPermaLink": "false"}
     new_item.append(wasabi_link)
 
@@ -108,5 +109,5 @@ if __name__ == "__main__":
     # db_d = {k: v for k, v in db_d.items() if int(k) >= cur_idx}
 
     s = db_to_rss(soup, db_d)
-    write_rss("./scrap_wasabi/backend/test.xml", s)
-    # write_rss("./feed/cfa_1.xml", s)
+    # write_rss("./scrap_wasabi/backend/test.xml", s)
+    write_rss("./feed/cfa_1.xml", s)

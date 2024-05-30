@@ -77,7 +77,7 @@ def build_db(
     rss_map_d,
     link_l,
     title_l,
-    pubDate_l,
+    # pubDate_l,
     duration_l,
     length_l,
 ):
@@ -85,7 +85,7 @@ def build_db(
     for i in range(len(link_l)):
         cur_url = link_l[i]
         cur_title = title_l[i]
-        cur_pubDate = pubDate_l[i]
+        # cur_pubDate = pubDate_l[i]
         cur_duration = duration_l[i]
         cur_length = length_l[i]
 
@@ -131,7 +131,7 @@ def refresh_db(url, map_file_path, db_file_path):
         rss_map_d,
         link_l,
         title_l,
-        pubDate_l,
+        # pubDate_l,
         duration_l,
         length_l,
     )
@@ -143,6 +143,6 @@ def refresh_db(url, map_file_path, db_file_path):
 if __name__ == "__main__":
     url = "https://audio.com/rss/collection/1786941485940961"
     map_file_path = "./scrap_wasabi/cfa_maps.json"
-    # db_file_path = "./scrap_wasabi/backend/cfa_db.json"
-    db_file_path = "./scrap_wasabi/backend/test.json"
+    db_file_path = "./scrap_wasabi/backend/cfa_db.json"
+    # db_file_path = "./scrap_wasabi/backend/test.json"
     refresh_db(url, map_file_path, db_file_path)
