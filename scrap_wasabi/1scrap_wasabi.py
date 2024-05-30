@@ -144,5 +144,5 @@ if __name__ == "__main__":
     url = "https://audio.com/rss/collection/1786941485940961"
     map_file_path = "./scrap_wasabi/cfa_maps.json"
     db_file_path = "./scrap_wasabi/backend/cfa_db.json"
-    # db_file_path = "./scrap_wasabi/backend/test.json"
+    # db_file_path = "./scrap_wasabi/backend/test.json" # test
     refresh_db(url, map_file_path, db_file_path)

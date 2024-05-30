@@ -16,12 +16,13 @@ if __name__ == "__main__":
     mm = 5
     dd = 25
 
-    print(get_pubDate(yyyy=yyyy, mm=mm, dd=dd))
+    # print(get_pubDate(yyyy=yyyy, mm=mm, dd=dd))
 
-    cur_date = dt.date(year=2024, month=3, day=1)
-    for i in range(20):
+    cur_date = dt.date(year=2024, month=4, day=15)
+    for i in range(10):
         if cur_date.weekday() == 4:
             print(get_pubDate(yyyy=cur_date.year, mm=cur_date.month, dd=cur_date.day))
+            cur_date += dt.timedelta(days=7)
+
         else:
             cur_date += dt.timedelta(days=1)
-        cur_date += dt.timedelta(days=7)
