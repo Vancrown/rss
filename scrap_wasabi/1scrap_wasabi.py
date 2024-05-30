@@ -28,7 +28,7 @@ def get_attr_l(url):
     soup = BeautifulSoup(result, "xml")
 
     link_l = [x.find("guid").contents[0] for x in soup.find_all("item")]
-    link_l = [x.replace("&", "&amp;") for x in link_l]
+    # link_l = [x.replace("&", "&amp;") for x in link_l]
     title_l = [x.find("title").contents[0] for x in soup.find_all("item")]
     pubDate_l = [x.find("pubDate").contents[0] for x in soup.find_all("item")]
     duration_l = [x.find("itunes:duration").contents[0] for x in soup.find_all("item")]
