@@ -17,3 +17,11 @@ if __name__ == "__main__":
     dd = 25
 
     print(get_pubDate(yyyy=yyyy, mm=mm, dd=dd))
+
+    cur_date = dt.date(year=2024, month=3, day=1)
+    for i in range(20):
+        if cur_date.weekday() == 4:
+            print(get_pubDate(yyyy=cur_date.year, mm=cur_date.month, dd=cur_date.day))
+        else:
+            cur_date += dt.timedelta(days=1)
+        cur_date += dt.timedelta(days=7)
