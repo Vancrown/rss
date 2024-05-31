@@ -1,6 +1,8 @@
 name: run run_rss.py
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: 17 17 * * 1 # every Monday at 17:17
 
